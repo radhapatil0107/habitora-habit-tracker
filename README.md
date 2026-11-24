@@ -238,16 +238,27 @@ npm start
 
 ---
 
-## 📸 Screenshots Showcase
+## 📸 Application Screenshots
 
-| View | Preview |
-|---|---|
-| **Dashboard (Light Mode)** | Dynamic circular progress ring, weekly streak bars, and category filtering |
-| **12-Week Activity Heatmap** | 84-day contribution visualization with intensity-based shading |
-| **Monthly Calendar & Day Inspection** | Calendar grid with day click popover showing completed habits |
-| **Analytics & KPIs** | Habit completion histogram by day of week and data export controls |
-| **Achievement Badges** | Milestone rewards with locked/unlocked gamification states |
-| **Dark Mode Theming** | Fully responsive dark aesthetic with persistent preference |
+### ⚡ 1. Interactive Dashboard & Daily Progress Ring
+![Dashboard Overview](screenshots/01-dashboard-overview.png)
+*Features animated circular progress bar, motivational quote banner, and real-time search & filter controls.*
+
+### 🎴 2. Habit Cards & 7-Day Weekly Streak Tracker
+![Habit Cards](screenshots/02-dashboard-cards.png)
+*Shows custom color accents, category badges, dynamic flame streak indicators, and 7-day Monday–Sunday visualizers.*
+
+### 📅 3. 12-Week Activity Heatmap & Interactive Monthly Calendar
+![History & Heatmap](screenshots/03-history-calendar.png)
+*GitHub-style 84-day contribution heatmap and compact monthly calendar with side-by-side day inspection drawer.*
+
+### 📊 4. Performance Analytics & Data Export
+![Stats Analytics](screenshots/04-stats-analytics.png)
+*Real-time KPIs, weekly & monthly consistency percentages, day-of-week check-in histogram, and CSV/JSON export.*
+
+### 🏆 5. Gamified Milestone Badges
+![Milestone Badges](screenshots/05-milestone-badges.png)
+*Achievement system with unlocked milestone awards, overall progress bar, and locked status indicators.*
 
 ---
 
